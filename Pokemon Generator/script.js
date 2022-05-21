@@ -56,7 +56,7 @@ let generateCard = (data) => {
           <img src=${imgSrc} />
           <h2 class="poke-name">${pokeName}</h2>
           <div class="types">
-           
+
           </div>
           <div class="stats">
             <div>
